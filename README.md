@@ -4,6 +4,10 @@ You can use the [editor on GitHub](https://github.com/jtgharp/ML/edit/master/REA
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+The Rmd File is [here](https://github.com/jtgharp/ML/blob/master/MLProject.Rmd)
+
+And the Knitr produced output html file is [here](https://github.com/jtgharp/ML/blob/master/MLProject.html)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
